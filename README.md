@@ -1,3 +1,5 @@
-1.SimpleLightbox npm; vimeoPlayer; 
-2.vimeoPlayer isTimeUpdate;
+1.SimpleLightbox npm;
+
+2.VimeoPlayer isTimeUpdate;
+
 3.feedback;
